@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ArrayStack\ArrayStack\bin\Debug\ArrayStack.exe.config
+C:\Users\User\source\repos\ArrayStack\ArrayStack\bin\Debug\ArrayStack.exe
+C:\Users\User\source\repos\ArrayStack\ArrayStack\bin\Debug\ArrayStack.pdb
+C:\Users\User\source\repos\ArrayStack\ArrayStack\obj\Debug\ArrayStack.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ArrayStack\ArrayStack\obj\Debug\ArrayStack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayStack\ArrayStack\obj\Debug\ArrayStack.exe
+C:\Users\User\source\repos\ArrayStack\ArrayStack\obj\Debug\ArrayStack.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SequenceNtoM\SequenceNtoM\bin\Debug\SequenceNtoM.exe.config
+C:\Users\User\source\repos\SequenceNtoM\SequenceNtoM\bin\Debug\SequenceNtoM.exe
+C:\Users\User\source\repos\SequenceNtoM\SequenceNtoM\bin\Debug\SequenceNtoM.pdb
+C:\Users\User\source\repos\SequenceNtoM\SequenceNtoM\obj\Debug\SequenceNtoM.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\SequenceNtoM\SequenceNtoM\obj\Debug\SequenceNtoM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SequenceNtoM\SequenceNtoM\obj\Debug\SequenceNtoM.exe
+C:\Users\User\source\repos\SequenceNtoM\SequenceNtoM\obj\Debug\SequenceNtoM.pdb
