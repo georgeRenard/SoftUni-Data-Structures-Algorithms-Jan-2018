@@ -1,0 +1,18 @@
+C:\Users\Pesho\Desktop\DS02\Skeleton\Trees\Trees\bin\Debug\Trees.exe.config
+C:\Users\Pesho\Desktop\DS02\Skeleton\Trees\Trees\bin\Debug\Trees.exe
+C:\Users\Pesho\Desktop\DS02\Skeleton\Trees\Trees\bin\Debug\Trees.pdb
+C:\Users\Pesho\Desktop\DS02\Skeleton\Trees\Trees\obj\Debug\Trees.exe
+C:\Users\Pesho\Desktop\DS02\Skeleton\Trees\Trees\obj\Debug\Trees.pdb
+C:\Users\s_she\Documents\SVN\DataStructures\Data-Structures-May-2017\04. Data-Structures-Binary-Search-Trees\Trees\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\s_she\Documents\SVN\DataStructures\Data-Structures-May-2017\04. Data-Structures-Binary-Search-Trees\Trees\Trees\obj\Debug\Trees.exe
+C:\Users\s_she\Documents\SVN\DataStructures\Data-Structures-May-2017\04. Data-Structures-Binary-Search-Trees\Trees\Trees\obj\Debug\Trees.pdb
+C:\Users\s_she\Documents\SVN\DataStructures\Data-Structures-May-2017\04. Data-Structures-Binary-Search-Trees\Trees\Trees\bin\Debug\Trees.exe.config
+C:\Users\s_she\Documents\SVN\DataStructures\Data-Structures-May-2017\04. Data-Structures-Binary-Search-Trees\Trees\Trees\bin\Debug\Trees.exe
+C:\Users\s_she\Documents\SVN\DataStructures\Data-Structures-May-2017\04. Data-Structures-Binary-Search-Trees\Trees\Trees\bin\Debug\Trees.pdb
+C:\Users\User\Desktop\04. Data-Structures-Binary-Search-Trees-Lab-Skeleton\Trees\Trees\bin\Debug\Trees.exe.config
+C:\Users\User\Desktop\04. Data-Structures-Binary-Search-Trees-Lab-Skeleton\Trees\Trees\bin\Debug\Trees.exe
+C:\Users\User\Desktop\04. Data-Structures-Binary-Search-Trees-Lab-Skeleton\Trees\Trees\bin\Debug\Trees.pdb
+C:\Users\User\Desktop\04. Data-Structures-Binary-Search-Trees-Lab-Skeleton\Trees\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\04. Data-Structures-Binary-Search-Trees-Lab-Skeleton\Trees\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\04. Data-Structures-Binary-Search-Trees-Lab-Skeleton\Trees\Trees\obj\Debug\Trees.exe
+C:\Users\User\Desktop\04. Data-Structures-Binary-Search-Trees-Lab-Skeleton\Trees\Trees\obj\Debug\Trees.pdb
