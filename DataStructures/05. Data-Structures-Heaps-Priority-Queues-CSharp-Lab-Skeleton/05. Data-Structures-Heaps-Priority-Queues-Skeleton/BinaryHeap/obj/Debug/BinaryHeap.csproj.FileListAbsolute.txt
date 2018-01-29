@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.pdb
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-CSharp-Lab-Skeleton\05. Data-Structures-Heaps-Priority-Queues-Skeleton\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
