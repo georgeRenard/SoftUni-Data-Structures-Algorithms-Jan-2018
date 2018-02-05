@@ -1,0 +1,1 @@
+This is the official Wintellect PowerCollections (http://www.wintellect.com/devcenter/paulballard/power-collections-library) unofficially packaged for the purpose of the Software University's (https://softuni.bg) courses. All rights go to Wintellect. 

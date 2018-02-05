@@ -1,0 +1,18 @@
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe.config
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.pdb
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.csprojResolveAssemblyReference.cache
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.csproj.CoreCompileInputs.cache
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.exe
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.pdb
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.exe
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.pdb
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe.config
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.pdb
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.xml

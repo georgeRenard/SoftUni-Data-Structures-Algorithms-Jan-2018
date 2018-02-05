@@ -1,0 +1,18 @@
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.dll
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.pdb
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.pdb
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe.config
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.dll
+C:\Projects\DataStructures\B-TREES AND RED-BLACK TREES\Exercise\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.pdb
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.dll
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.pdb
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.pdb
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe.config
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.dll
+C:\Users\User\Desktop\Hierarchy\C#-Skeleton\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.pdb

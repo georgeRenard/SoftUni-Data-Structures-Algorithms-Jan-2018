@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\AStar\obj\Debug\AStar.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\bin\Debug\PriorityQueue.Tests.dll
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\bin\Debug\PriorityQueue.Tests.pdb
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\bin\Debug\AStar.exe
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\bin\Debug\AStar.pdb
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\bin\Debug\AStar.exe.config
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.dll
+C:\Users\User\Desktop\05. Data-Structures-Heaps-Priority-Queues-Homework-CSharp-Skeleton\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.pdb
