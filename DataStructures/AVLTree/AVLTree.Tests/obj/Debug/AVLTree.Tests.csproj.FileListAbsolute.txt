@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.dll
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.pdb
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.pdb
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe.config
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.dll
+C:\Users\User\Desktop\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.pdb
