@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\First-Last-List\First-Last-List\obj\Debug\First-Last-List.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\First-Last-List\First-Last-List\obj\Debug\First-Last-List.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\First-Last-List\First-Last-List\bin\Debug\First-Last-List.exe.config
+C:\Users\User\Desktop\First-Last-List\First-Last-List\bin\Debug\First-Last-List.exe
+C:\Users\User\Desktop\First-Last-List\First-Last-List\bin\Debug\First-Last-List.pdb
+C:\Users\User\Desktop\First-Last-List\First-Last-List\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\User\Desktop\First-Last-List\First-Last-List\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\User\Desktop\First-Last-List\First-Last-List\obj\Debug\First-Last-List.exe
+C:\Users\User\Desktop\First-Last-List\First-Last-List\obj\Debug\First-Last-List.pdb

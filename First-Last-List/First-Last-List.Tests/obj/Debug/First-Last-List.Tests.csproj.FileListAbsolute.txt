@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.dll
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.pdb
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.exe
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.pdb
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.exe.config
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.dll
+C:\Users\User\Desktop\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.pdb
