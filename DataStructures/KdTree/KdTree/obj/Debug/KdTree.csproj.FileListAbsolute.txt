@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\KdTree\KdTree\bin\Debug\KdTree.exe.config
+C:\Users\User\Desktop\KdTree\KdTree\bin\Debug\KdTree.exe
+C:\Users\User\Desktop\KdTree\KdTree\bin\Debug\KdTree.pdb
+C:\Users\User\Desktop\KdTree\KdTree\obj\Debug\KdTree.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KdTree\KdTree\obj\Debug\KdTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KdTree\KdTree\obj\Debug\KdTree.exe
+C:\Users\User\Desktop\KdTree\KdTree\obj\Debug\KdTree.pdb

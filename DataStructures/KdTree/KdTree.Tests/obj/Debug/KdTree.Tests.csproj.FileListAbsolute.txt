@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\KdTree\KdTree.Tests\bin\Debug\KdTree.Tests.dll
+C:\Users\User\Desktop\KdTree\KdTree.Tests\bin\Debug\KdTree.Tests.pdb
+C:\Users\User\Desktop\KdTree\KdTree.Tests\bin\Debug\KdTree.exe
+C:\Users\User\Desktop\KdTree\KdTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\KdTree\KdTree.Tests\bin\Debug\KdTree.pdb
+C:\Users\User\Desktop\KdTree\KdTree.Tests\bin\Debug\KdTree.exe.config
+C:\Users\User\Desktop\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.dll
+C:\Users\User\Desktop\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.pdb

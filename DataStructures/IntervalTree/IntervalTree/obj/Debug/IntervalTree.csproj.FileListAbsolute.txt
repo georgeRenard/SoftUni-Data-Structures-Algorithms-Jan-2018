@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IntervalTree\IntervalTree\bin\Debug\IntervalTree.exe.config
+C:\Users\User\Desktop\IntervalTree\IntervalTree\bin\Debug\IntervalTree.exe
+C:\Users\User\Desktop\IntervalTree\IntervalTree\bin\Debug\IntervalTree.pdb
+C:\Users\User\Desktop\IntervalTree\IntervalTree\obj\Debug\IntervalTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IntervalTree\IntervalTree\obj\Debug\IntervalTree.exe
+C:\Users\User\Desktop\IntervalTree\IntervalTree\obj\Debug\IntervalTree.pdb
+C:\Users\User\Desktop\IntervalTree\IntervalTree\obj\Debug\IntervalTree.csprojResolveAssemblyReference.cache
