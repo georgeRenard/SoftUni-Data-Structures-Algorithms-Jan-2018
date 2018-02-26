@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MassEffect\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\User\source\repos\MassEffect\MassEffect\bin\Debug\MassEffect.exe
+C:\Users\User\source\repos\MassEffect\MassEffect\bin\Debug\MassEffect.pdb
+C:\Users\User\source\repos\MassEffect\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\MassEffect\MassEffect\obj\Debug\MassEffect.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MassEffect\MassEffect\obj\Debug\MassEffect.exe
+C:\Users\User\source\repos\MassEffect\MassEffect\obj\Debug\MassEffect.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Core\bin\Debug\QuadTree.Core.exe
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Core\obj\Debug\QuadTree.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Core\obj\Debug\QuadTree.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Core\obj\Debug\QuadTree.Core.exe
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Core\obj\Debug\QuadTree.Core.pdb

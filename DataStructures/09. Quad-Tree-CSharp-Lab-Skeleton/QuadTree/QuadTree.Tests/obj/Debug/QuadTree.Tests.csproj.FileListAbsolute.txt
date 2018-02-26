@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\bin\Debug\QuadTree.Tests.dll
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\bin\Debug\QuadTree.Tests.pdb
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\bin\Debug\QuadTree.Core.exe
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\bin\Debug\QuadTree.Core.pdb
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\obj\Debug\QuadTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\obj\Debug\QuadTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\obj\Debug\QuadTree.Tests.dll
+C:\Users\User\Desktop\09. Quad-Tree-CSharp-Lab-Skeleton\QuadTree\QuadTree.Tests\obj\Debug\QuadTree.Tests.pdb
