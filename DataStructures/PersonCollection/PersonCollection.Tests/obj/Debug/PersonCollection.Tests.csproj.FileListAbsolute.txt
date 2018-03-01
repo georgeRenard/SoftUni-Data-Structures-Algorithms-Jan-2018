@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.Tests.dll
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.Tests.pdb
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.exe
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PowerCollections.dll
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.pdb
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PersonCollection.exe.config
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\bin\Debug\PowerCollections.xml
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\obj\Debug\PersonCollection.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\obj\Debug\PersonCollection.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\obj\Debug\PersonCollection.Tests.dll
+C:\Users\User\Desktop\PersonCollection\PersonCollection.Tests\obj\Debug\PersonCollection.Tests.pdb
