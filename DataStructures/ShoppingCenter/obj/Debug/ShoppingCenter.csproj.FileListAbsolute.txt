@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\bin\Debug\ShoppingCenter.exe.config
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\bin\Debug\ShoppingCenter.exe
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\bin\Debug\ShoppingCenter.pdb
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\obj\Debug\ShoppingCenter.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\obj\Debug\ShoppingCenter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\obj\Debug\ShoppingCenter.exe
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\obj\Debug\ShoppingCenter.pdb
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\bin\Debug\PowerCollections.dll
+C:\Users\User\source\repos\ShoppingCenter\ShoppingCenter\bin\Debug\PowerCollections.xml
