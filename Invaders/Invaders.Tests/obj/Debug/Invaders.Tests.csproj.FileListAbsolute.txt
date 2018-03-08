@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\bin\Debug\Invaders.Tests.dll
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\bin\Debug\Invaders.Tests.pdb
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\bin\Debug\Invaders.exe
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\bin\Debug\Invaders.pdb
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\bin\Debug\Invaders.exe.config
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.dll
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders.Tests\obj\Debug\Invaders.Tests.pdb

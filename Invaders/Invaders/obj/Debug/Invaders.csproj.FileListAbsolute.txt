@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\bin\Debug\PowerCollections.dll
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\bin\Debug\PowerCollections.xml
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\obj\Debug\Invaders.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\User\Desktop\01. Invaders_Скелет\Invaders\Invaders\obj\Debug\Invaders.pdb
